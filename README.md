@@ -9,3 +9,4 @@ RabbitMq cluster simulation and load testing setup with docker
 ## Set up 
  
  1. 3-node reference architecture for RabbitMQ clustering without a load balancer. Each RabbitMQ broker runs on a host docker node
+ ![](resources/rabbit-setup-1.jpg)
